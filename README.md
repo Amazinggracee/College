@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [porfolio] <a name="about-project">https://amazinggracee.github.io/Portfolio1</a>
+# 📖 College] <a name="about-project"> https://amazinggracee.github.io/College</a>
 
 College website.
 
@@ -59,7 +59,7 @@ The entire project was built with only HTML5, CSS3 and JavaScript.
 
 ## 🚀 Live Demo <a name="live-demo">demo</a>
 
-- [Live Demo Link] https://github.com/Amazinggracee/College/
+- [Live Demo Link] https://amazinggracee.github.io/College/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
